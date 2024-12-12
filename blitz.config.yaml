@@ -1,0 +1,7 @@
+name: log
+description: Moderation logs
+version: 0.0.1
+
+
+config:
+  log_webhook: ""
